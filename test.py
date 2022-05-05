@@ -13,3 +13,4 @@ print(sheet["a1"].value)
 print(sheet["b1"].value)
 
 workbook.save(r"C:\Users\LENOVO\Downloads\Analysis\NoofClick.xlsx")
+#noted the code will not run successfull esle you close the Excel file first and after run it back to your excel file to check the result 
