@@ -1,4 +1,3 @@
-from tkinter import CENTER
 from openpyxl import load_workbook  
 from openpyxl.styles import Font, colors, alignment, Color
 from openpyxl.styles import NamedStyle
